@@ -1,0 +1,12 @@
+101 Spining A
+102 Spining P
+201 ABS A
+202 ABS P
+301 Cardio_Mix A
+302 Cardio_Mix P
+401 Bootcamp A
+402 Bootcamp P
+501 Zumba A
+502 Zumba P
+601 Body_Attack A
+602 Body_Attack P
